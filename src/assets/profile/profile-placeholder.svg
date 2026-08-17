@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="560" viewBox="0 0 480 560" fill="none">
+  <rect width="480" height="560" fill="#f3f4f6"/>
+  <rect x="1" y="1" width="478" height="558" stroke="#d1d5db" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="240" cy="200" r="72" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2"/>
+  <path d="M120 420c24-64 72-96 120-96s96 32 120 96" stroke="#9ca3af" stroke-width="2" fill="#e5e7eb"/>
+  <text x="240" y="500" text-anchor="middle" fill="#6b7280" font-family="Inter, sans-serif" font-size="18" font-weight="600">[PROFILE IMAGE]</text>
+  <text x="240" y="528" text-anchor="middle" fill="#9ca3af" font-family="Inter, sans-serif" font-size="13">Replace src/assets/profile/profile-placeholder.svg</text>
+</svg>

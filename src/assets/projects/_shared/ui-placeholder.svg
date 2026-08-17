@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" fill="none">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <rect x="24" y="24" width="852" height="56" rx="8" fill="#111111"/>
+  <rect x="48" y="104" width="220" height="380" rx="8" fill="#f3f4f6" stroke="#e5e7eb"/>
+  <rect x="292" y="104" width="560" height="180" rx="8" fill="#eef1fd" stroke="#c7d2fe"/>
+  <rect x="292" y="304" width="268" height="180" rx="8" fill="#f3f4f6" stroke="#e5e7eb"/>
+  <rect x="584" y="304" width="268" height="180" rx="8" fill="#f3f4f6" stroke="#e5e7eb"/>
+  <text x="450" y="500" text-anchor="middle" fill="#6b7280" font-family="Inter, sans-serif" font-size="16" font-weight="600">[UI SCREENSHOT PLACEHOLDER]</text>
+</svg>

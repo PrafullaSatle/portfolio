@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" fill="none">
+  <rect width="900" height="520" fill="#f8f8f6"/>
+  <rect x="24" y="24" width="852" height="472" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+  <rect x="48" y="48" width="180" height="100" rx="6" fill="#eef1fd" stroke="#c7d2fe"/>
+  <rect x="252" y="48" width="180" height="100" rx="6" fill="#eef1fd" stroke="#c7d2fe"/>
+  <rect x="456" y="48" width="180" height="100" rx="6" fill="#eef1fd" stroke="#c7d2fe"/>
+  <rect x="48" y="176" width="588" height="280" rx="6" fill="#f3f4f6" stroke="#e5e7eb"/>
+  <rect x="660" y="176" width="192" height="132" rx="6" fill="#f3f4f6" stroke="#e5e7eb"/>
+  <rect x="660" y="324" width="192" height="132" rx="6" fill="#f3f4f6" stroke="#e5e7eb"/>
+  <text x="450" y="500" text-anchor="middle" fill="#6b7280" font-family="Inter, sans-serif" font-size="16" font-weight="600">[DASHBOARD PLACEHOLDER]</text>
+</svg>

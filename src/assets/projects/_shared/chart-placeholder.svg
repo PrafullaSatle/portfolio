@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" fill="none">
+  <rect width="900" height="520" fill="#ffffff"/>
+  <rect x="1" y="1" width="898" height="518" stroke="#e5e7eb" stroke-width="2"/>
+  <line x1="80" y1="420" x2="820" y2="420" stroke="#d1d5db" stroke-width="2"/>
+  <line x1="80" y1="80" x2="80" y2="420" stroke="#d1d5db" stroke-width="2"/>
+  <rect x="140" y="280" width="80" height="140" fill="#c7d2fe"/>
+  <rect x="260" y="220" width="80" height="200" fill="#a5b4fc"/>
+  <rect x="380" y="180" width="80" height="240" fill="#818cf8"/>
+  <rect x="500" y="240" width="80" height="180" fill="#6366f1"/>
+  <rect x="620" y="200" width="80" height="220" fill="#4f46e5"/>
+  <text x="450" y="470" text-anchor="middle" fill="#6b7280" font-family="Inter, sans-serif" font-size="16" font-weight="600">[CHART / VISUALIZATION PLACEHOLDER]</text>
+</svg>
