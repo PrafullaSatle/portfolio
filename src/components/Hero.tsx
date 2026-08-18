@@ -1,5 +1,5 @@
 import { site } from "../data/site";
-import profilePlaceholder from "../assets/profile/ME.JPG";
+import profilePlaceholder from "../assets/profile/warmwhitebg.png";
 
 export default function Hero() {
   const scrollTo = (id: string) => {
